@@ -1,4 +1,4 @@
-# 🚚 LogisticsNexus
+# 🚚 Logistics Nexus
 
 **LogisticsNexus** adalah aplikasi web modern berbasis React + TypeScript yang dirancang untuk memudahkan manajemen pekerjaan/magang, kolaborasi mitra, dan monitoring aktivitas logistik melalui dashboard interaktif. Proyek ini mengadopsi beberapa fitur utama dari sistem enterprise seperti Supply Chain Management (SCM) dan Order Management, namun tetap ringan dan mudah digunakan.
 
